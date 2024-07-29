@@ -3,26 +3,29 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="farah.css">
     <title>Resume creation</title>
 </head>
 <body>
   <h1>RESUME</h1> 
   Farah Maimoona Jayas | First-Year Student at American University of Sharjah
-  <br>  
-  <h3><b>Contacts </b></h3>
+  <br> 
+  <div> <h3><b>Contacts </b></h3>
 <b>Phone number:</b> 00971556190012 <br>
-<b>Email:</b> farahmaimoonajayas@gmail.com | g00100715@aus.edu
-<br><h3><b>Education </b></h3>
+<b>Email:</b> farahmaimoonajayas@gmail.com | g00100715@aus.edu</div> 
+ 
+<div>
+    <br><h3><b>Education </b></h3>
 
 <ul> <li>The Indian High School, Dubai  2009-2023 <br>
 <i>Grade 10- 96% <br>
 Grade 12- 90.2%</i> </li>
 <br>
 <li>American University of Sharjah  2023- 2027 
-<br> <i> CGPA - 3.78/4.00</i></li></ul>
+<br> <i> CGPA - 3.78/4.00</i></li></ul></div>
 
 
-<h3><b>Skills </b></h3>
+<div><h3><b>Skills </b></h3>
 <ul>
     <li>Python Programming</li> 
     <li>C++ Programming</li>
@@ -30,13 +33,14 @@ Grade 12- 90.2%</i> </li>
     <li>Teamwork</li> 
     <li>Leadership</li>
     <li> Time Management</li>
-    <li>Adaptability</li></ul>
+    <li>Adaptability</li></ul> </div>
 
-<h3><b>Languages </b></h3>
+<div><h3><b>Languages </b></h3>
 <ul><li>English</li>
      <li> Malayalam </li> 
      <li> Hindi</li>
-    </ul>
+    </ul> </div>
+
 
 </body>
 </html>
